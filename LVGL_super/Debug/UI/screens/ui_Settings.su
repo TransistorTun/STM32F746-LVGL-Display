@@ -1,0 +1,6 @@
+C:/Users/phamh/STM32CubeIDE/workspace_1.16.0/LVGL_super/Drivers/lvgl/../lvgl/src/hal/../../../lvgl/src/hal/../../../lvgl/src/draw/../../../lvgl/src/misc/../../../lvgl/src/font/../../../lvgl/src/misc/lv_area.h:294:26:lv_pct	16	static
+C:/Users/phamh/STM32CubeIDE/workspace_1.16.0/LVGL_super/Drivers/lvgl/../lvgl/src/hal/../../../lvgl/src/hal/../../../lvgl/src/draw/../../../lvgl/src/misc/../../../lvgl/src/misc/lv_color.h:599:26:lv_color_hex	24	static
+C:/Users/phamh/STM32CubeIDE/workspace_1.16.0/LVGL_super/Drivers/lvgl/../lvgl/src/widgets/lv_slider.h:84:20:lv_slider_set_value	24	static
+C:/Users/phamh/STM32CubeIDE/workspace_1.16.0/LVGL_super/Drivers/lvgl/../lvgl/src/widgets/lv_slider.h:95:20:lv_slider_set_left_value	24	static
+C:/Users/phamh/STM32CubeIDE/workspace_1.16.0/LVGL_super/Drivers/lvgl/../lvgl/src/widgets/lv_slider.h:177:32:lv_slider_get_mode	24	static
+../UI/screens/ui_Settings.c:8:6:ui_Settings_screen_init	40	static
